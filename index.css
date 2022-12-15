@@ -1,0 +1,43 @@
+.sayed_blog{
+background-image: url(https://res.cloudinary.com/braydoncoyer/image/upload/v1642953750/glowing_gradient_background_tailwind_banner.jpg);
+font-size: medium;
+    border: 3px solid #888;
+    border-radius: 30px;
+    width: 400px;
+display: inline-block;
+
+    padding: 40px 50px ;
+    margin: 20px;
+    box-sizing: border-box;
+}
+ .sayed_blog a{
+    color: aliceblue;
+    text-decoration: none;
+ }
+
+.sayed_blog p{
+    font-size: 16px;
+    line-height: 24px;
+    text-align: justify;
+}
+.box_one{
+    background-image:url(https://victoryoalli.me/storage/wink/images/3q1nY0meHfL5JQrN7V5knK2xA0G9SuMD5zxdx9Nv.png)
+}
+.box_two{
+    background-image: url(https://wallpaperaccess.com/full/1092647.jpg);
+}
+.box_three{
+    background-image: url( https://webgradients.com/public/webgradients_png/048%20Strong%20Bliss.png );
+}
+.box_four{
+    background-image: url(https://thumbs.dreamstime.com/z/red-pink-watercolor-texture-ink-high-resolution-background-design-backdrop-deep-beautiful-195924998.jpg);
+}
+.box_five{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBm-Z8b1h9ZUxdz-6pf8geJD5ERIjnz3dST7osJAHVhD5jC80gQ0pPndWBJ5wz76q0Go&usqp=CAU );
+}
+
+
+
+
+
+
